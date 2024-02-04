@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "Enter Your API key Here";
 const submitButton = document.querySelector("#submit");
 
 async function getMessage() {
